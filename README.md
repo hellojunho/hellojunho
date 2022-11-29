@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+<!--
 <div align=center>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=cho%20Junho&height=150&fontSize=60&desc=Web%20Developer&descAlignY=85&descAlign=68)
   
 <br>
 <br>
-
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=ljdongz&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
